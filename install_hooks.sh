@@ -1,3 +1,3 @@
 #!/bin/sh
 
-wget https://github.com/ajukas/ps-git-hooks/blob/master/prepare-commit-msg && mv prepare-commit-msg .git/hooks/prepare-commit-msg
+wget https://raw.githubusercontent.com/ajukas/my-git-hooks/master/prepare-commit-msg && mv prepare-commit-msg .git/hooks/prepare-commit-msg
